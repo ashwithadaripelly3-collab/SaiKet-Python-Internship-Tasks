@@ -1,0 +1,5 @@
+Hello SaiKet Systems
+Django is awesome for coding
+I love Django programming
+SaiKet internship is fun
+Django developers are cool
