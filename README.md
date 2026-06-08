@@ -20,6 +20,7 @@ Internship tasks completed for **SaiKet Systems** as part of Python Development 
 
 ## 🎮 Task 2: Guess The Number Game
 **Tech Stack:** Python
+**Demo:** [View Output](./task%202%20screenshot.jpeg)
 
 ### Features:
 - 🎯 3 Difficulty Levels: Easy (1-50), Medium (1-100), Hard (1-500)
